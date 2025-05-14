@@ -1,9 +1,9 @@
 # README.md
-# 👋 Hi, I'm [Ahmed Eskaf]!
+# 👋 Hi, I'm Ahmed Eskaf!
 
 Welcome to my GitHub profile! I'm a passionate developer with a strong interest in [Your Interests – e.g., Artificial Intelligence, Web Development, Robotics].
 
-🎓 I'm a [3rd] year [Sowftware Engineering] student at [Concordia University].I have experience in web development, machine learning, and software development.
+🎓 I'm a 3rd year Sowftware Engineering student at Concordia University.I have experience in web development, machine learning, and software development.
 
 ## 💻 Skills & Technologies
 
